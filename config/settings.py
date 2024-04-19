@@ -131,7 +131,7 @@ ASGI_APPLICATION = "config.asgi.application"
 # }
 DATABASES = {
     'default': dj_database_url.config(
-        default="postgres://colly:rILfBuT4h1cVb8OaNO4BecB8KgH2wZyW@dpg-codpio8l6cac73bodit0-a.oregon-postgres.render.com/linc_lms"
+        default="postgres://colly:R0b3clkzk3KSPlC6aXM6wY9gWBOtTX7S@dpg-coe2jlq0si5c7399tslg-a.oregon-postgres.render.com/linc_lms_okcf"
     )
  }
 
